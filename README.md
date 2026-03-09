@@ -664,25 +664,6 @@ npm run build
 | Supported Node | >=18.0.0 |
 | Production Ready | Yes |
 
-## License
-
-ISC - See LICENSE file for details
-
-## Author
-
-**Mehedi Islam Ripon**
-
-### Contributions & Support
-
-- Star this repo if you find it helpful!
-- Report bugs via GitHub Issues
-- Discuss improvements in Discussions
-- Submit PRs for new features
-
----
-
-**Last Updated:** January 2026  
-**Version:** 2.0.0 (Production-Grade Release)
 
 ---
 
